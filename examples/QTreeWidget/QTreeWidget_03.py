@@ -1,3 +1,6 @@
+# ---------------------------
+# Treeにitemを追加する
+# ---------------------------
 import sys
 from PySide2.QtWidgets import QApplication, QTreeWidget, QTreeWidgetItem
 

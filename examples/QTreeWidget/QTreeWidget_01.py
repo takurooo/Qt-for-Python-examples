@@ -1,3 +1,6 @@
+# ---------------------------
+# Treeを表示する
+# ---------------------------
 import sys
 from PySide2.QtWidgets import QApplication, QTreeWidget
 
