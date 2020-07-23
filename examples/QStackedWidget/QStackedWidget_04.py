@@ -1,3 +1,6 @@
+# ---------------------------
+# TreeをクリックしてTextEditを切り替える
+# ---------------------------
 import sys
 from PySide2.QtWidgets import QApplication, QTreeWidget, QTreeWidgetItem, QTextEdit, QStackedWidget, QSplitter
 
