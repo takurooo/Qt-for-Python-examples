@@ -9,7 +9,7 @@ pip install pyside2
 
 # 基本
 
-![sample]](https://user-images.githubusercontent.com/35373553/88448941-e8c9e200-ce7d-11ea-86a8-a691f1fdbd0d.png)
+![sample](https://user-images.githubusercontent.com/35373553/88448941-e8c9e200-ce7d-11ea-86a8-a691f1fdbd0d.png)
 
 ```python
 import sys
